@@ -1,2 +1,2 @@
 # Hello
-This is a exercice Javascript 
+This todoList is an exercice Javascript 
