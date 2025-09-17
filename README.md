@@ -1,4 +1,4 @@
-# Hello
-This todoList is an exercice Javascript 
+# Hello ^_^
+This is a todoList javascript.
 
-link: https://todo-list-by-tsiry.vercel.app
+test it in https://todo-list-by-tsiry.vercel.app
